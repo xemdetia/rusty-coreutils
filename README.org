@@ -1,0 +1,3 @@
+This project is a simple private project to try and provide some of
+the coreutil commands that we use on Unix-based platforms regularly
+but don't have a clean alternative on Windows.
